@@ -1,7 +1,7 @@
-# Simple CD pipeline demo at scale with Jenkins Swarm,Docker Swarm and Goland
+# Simple CD pipeline demo at scale with Jenkins Swarm,Docker Swarm and Golang
 
 
-[![CD pipeline demo at scale with Jenkins Swarm,Docker Swarm and Goland](https://img.youtube.com/vi/USxRrMWzK1s/0.jpg)](https://youtu.be/USxRrMWzK1s "The video is a step by step tutorial for a simple Golang application and how to create a continuous delivery pipeline using  Jenkins Swarm ,Docker swarm, Docker Secrets")
+[![CD pipeline demo at scale with Jenkins Swarm,Docker Swarm and Golang](https://img.youtube.com/vi/USxRrMWzK1s/0.jpg)](https://youtu.be/USxRrMWzK1s "The video is a step by step tutorial for a simple Golang application and how to create a continuous delivery pipeline using  Jenkins Swarm ,Docker swarm, Docker Secrets")
 
 ### [Original blog post link](https://www.vip-consult.solutions/post/easy-docker-swarm-jenkins-continuous-deployment-at-scale#content)
 
